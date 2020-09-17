@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29637178658",
+    "firebase_url": "https://bmicalcwithaesencryption.firebaseio.com",
+    "project_id": "bmicalcwithaesencryption",
+    "storage_bucket": "bmicalcwithaesencryption.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29637178658:android:21fda6e35fd21217a1e17b",
+        "android_client_info": {
+          "package_name": "com.example.sayali.bmicalcwithaesencryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29637178658-a1uu17hu7vheuqp67c1hb1ger2d1e1pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sayali.bmicalcwithaesencryption",
+            "certificate_hash": "9bb24e9bdf2784d06b8847901d1fa1e71c569551"
+          }
+        },
+        {
+          "client_id": "29637178658-68kc2cn2466clfvhaqo5fr3n8hmh7pup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJldRXC0nttB4KvprkuvATlhdjgXZBGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29637178658-68kc2cn2466clfvhaqo5fr3n8hmh7pup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
